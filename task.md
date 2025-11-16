@@ -6,12 +6,14 @@ project:
 area:
 tags:
   - task
+created: {{date}}
 ---
 
 # {{title}}
 
-created:: {{date:YYYY-MM-DD}}
-updated:: 
+## Details
+- Created: {{date:YYYY-MM-DD}}
+- Updated: {{date:YYYY-MM-DD}}
 
 ## Task
 - [ ] {{title}}

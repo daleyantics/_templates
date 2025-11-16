@@ -1,7 +1,7 @@
 ---
 type: conversation-note
 persona_id: 
-date: {{date:YYYY-MM-DD}}
+date: {{date}}
 channel: in-person | phone | video | sms | dm | email | other
 location_hint: 
 mood_me: 

@@ -1,6 +1,7 @@
 ---
 type: meeting
 date: {{date}}
+time: {{time24}}
 meeting_type: 
 tags: [meeting/{{meeting_type}}, meeting/notes]
 location: 

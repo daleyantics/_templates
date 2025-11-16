@@ -9,6 +9,8 @@ tags: [project]
 
 # {{title}}
 
+Started: {{date}}
+
 ## Objective
 A short one‑sentence summary of what this project is trying to accomplish.
 
@@ -20,6 +22,7 @@ A short one‑sentence summary of what this project is trying to accomplish.
 | Date | Milestone |
 |------|-----------|
 | {{date}} | Project started |
+| {{nextweek}} | First checkpoint |
 
 ## Tasks
 - [ ] Add tasks manually here or embed from a task file
