@@ -2,6 +2,9 @@
 type: daily-note
 date: {{date}}
 tags: [daily]
+actuarial_minutes: 0
+actuarial_focus: ""
+actuarial_done: false
 ---
 
 # Daily Note — {{date}}
@@ -20,6 +23,19 @@ tags: [daily]
 - Walk (km/mi): 
 - Run (km/mi): 
 - Mood (1–5): 
+
+## Actuarial Study Log 🧮
+
+- Sessions:
+  - [ ] Morning block
+  - [ ] Evening / weekend block
+- Notes:  
+  - 
+
+> [!todo]- Update:
+> - `actuarial_minutes` in frontmatter with total focused minutes.
+> - `actuarial_focus` with what you worked on.
+> - `actuarial_done` to `true` if you hit your planned block(s).
 
 ## Hansei
 ### Where did I fail today?
