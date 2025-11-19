@@ -12,8 +12,8 @@ created: {{date}}
 # {{title}}
 
 ## Details
-- Created: {{date:YYYY-MM-DD}}
-- Updated: {{date:YYYY-MM-DD}}
+- Created: {{date}}
+- Updated: {{date}}
 
 ## Task
 - [ ] {{title}}
