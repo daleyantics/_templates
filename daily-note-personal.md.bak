@@ -16,49 +16,13 @@ actuarial_done: false
 - 
 
 ## Trackers
-
-### Snapshot (checkboxes)
 - Mental: [ ]   Physical: [ ]   Spiritual: [ ]
 - Journal: [ ]   Workout: [ ]   Accountability: [ ]
-
-### Core Performance Metrics
-
-**Sleep & Recovery**
-
-- Bedtime:: 
-- Wake_time:: 
-- Sleep_hours:: 
-- Energy_1_10:: 
-
-**Body (Training & Movement)**
-
-- Training_type::  <!-- strength / power / conditioning / mobility / rest -->
-- Training_minutes:: 
-- Training_RPE_1_10:: 
-- Walk_km:: 
-- Run_km:: 
-- Jump_rope_min:: 
-- Meditate_min:: 
-
-**Mind (Deep Work & Focus)**
-
-- Deep_work_minutes:: 
-- Distraction_count:: 
-- Tasks_planned:: 
-- Tasks_completed:: 
-
-**Emotion & Pressure**
-
-- Emotional_checkins:: 
-- Time_to_steady_min:: 
-- Followed_plan_despite_emotion::  <!-- short note or Y/N -->
-
-**Execution (Showed up?)**
-
-- Morning_routine_done::  <!-- Y/N or short note -->
-- Pressure_rep_done::  <!-- Y/N -->
-- Effort_rating_1_10:: 
-- Mood_1_5:: 
+- Meditate (min): 
+- Jump rope (min): 
+- Walk (km/mi): 
+- Run (km/mi): 
+- Mood (1–5): 
 
 ## Actuarial Study Log 🧮
 
@@ -77,13 +41,6 @@ actuarial_done: false
 ### Where did I fail today?
 ### What did I learn from it?
 ### What will I do differently?
-
-## Pressure Rep (high‑pressure moment)
-- Situation:
-- Emotion (0–10):
-- Time to steady (min): 
-- Reframe / mental model used:
-- Did I follow the plan?:
 
 ## Observation
 [[Observation - {{date}}]]
@@ -106,4 +63,3 @@ actuarial_done: false
 - [ ] Run/Walk (physical win)
 - [ ] Personal project task #2
 - [ ] Honest accountability (4 wins)
-
