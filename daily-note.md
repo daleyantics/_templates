@@ -16,5 +16,26 @@ tags: [daily]
 - [ ]
 - [ ]
 
-## Tasks Captured Today
-- [ ]
+## Tasks Today
+```tasks
+not done
+scheduled on this day or due on this day
+group by backlink
+sort by urgency
+```
+
+## Completed Today
+```tasks
+done on this day
+group by backlink
+```
+
+## Overdue
+```tasks
+not done
+due before this day
+sort by due
+```
+
+## Notes
+- 
