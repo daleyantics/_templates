@@ -24,6 +24,15 @@ group by backlink
 sort by urgency
 ```
 
+## Tasks Due in 7 Days
+```tasks
+not done
+due on or after today
+due before in 7 days
+sort by due
+group by due
+```
+
 ## Completed Today
 ```tasks
 done on this day
