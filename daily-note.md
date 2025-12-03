@@ -19,7 +19,7 @@ tags: [daily]
 ## Tasks Today
 ```tasks
 not done
-scheduled on this day or due on this day
+happens today
 group by backlink
 sort by urgency
 ```
