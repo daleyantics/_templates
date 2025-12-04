@@ -20,6 +20,7 @@ tags: [daily]
 ```tasks
 not done
 happens today
+tag does not include waiting
 group by backlink
 sort by urgency
 ```
@@ -29,6 +30,7 @@ sort by urgency
 not done
 due on or after today
 due before in 7 days
+tag does not include waiting
 sort by due
 group by due
 ```
@@ -43,7 +45,16 @@ group by backlink
 ```tasks
 not done
 due before this day
+tag does not include waiting
 sort by due
+```
+
+## Waiting/Paused Tasks
+```tasks
+not done
+tag includes waiting
+sort by due
+group by backlink
 ```
 
 ## Notes
